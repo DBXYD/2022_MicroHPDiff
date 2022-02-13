@@ -1,0 +1,20 @@
+\babel@toc {nil}{}
+\beamer@sectionintoc {1}{Le haut-parleur : du signal \IeC {\'e}lectrique au signal acoustique}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Principe du haut parleur}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Electronique et M\IeC {\'e}canique du haut parleur : Mod\IeC {\`e}le lin\IeC {\'e}aire classique}{7}{0}{1}
+\beamer@sectionintoc {2}{Micro = (haut-parleur)$^{-1}$}{20}{0}{2}
+\beamer@subsectionintoc {2}{1}{Directivit\IeC {\'e} des microphones}{21}{0}{2}
+\beamer@subsectionintoc {2}{2}{Dynamique, statique, \IeC {\`a} ruban}{28}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{1}{Plage de fr\IeC {\'e}quences et r\IeC {\'e}ponse en fr\IeC {\'e}quence}{32}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{2}{Sensibilit\IeC {\'e}}{34}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{3}{Pression acoustique maximale}{35}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{4}{Imp\IeC {\'e}dance de sortie}{36}{0}{2}
+\beamer@sectionintoc {3}{Syst\IeC {\`e}me de sonorisation}{37}{0}{3}
+\beamer@subsectionintoc {3}{1}{Sonorisation d'un concert/festival}{38}{0}{3}
+\beamer@subsectionintoc {3}{2}{En france, on est bon !}{40}{0}{3}
+\beamer@subsectionintoc {3}{3}{Caract\IeC {\'e}ristiques d'un syst\IeC {\`e}me de diffusion}{42}{0}{3}
+\beamer@subsubsectionintoc {3}{3}{1}{Puissance acoustique uniform\IeC {\'e}ment r\IeC {\'e}partie dans l'espace}{48}{0}{3}
+\beamer@subsubsectionintoc {3}{3}{2}{R\IeC {\'e}ponse en fr\IeC {\'e}quence plane}{53}{0}{3}
+\beamer@subsubsectionintoc {3}{3}{3}{Coh\IeC {\'e}rence dans l'espace de la r\IeC {\'e}ponse en fr\IeC {\'e}quence}{54}{0}{3}
+\beamer@sectionintoc {4}{Simulation : syst\IeC {\`e}me de subwoofer}{55}{0}{4}
+\beamer@subsectionintoc {4}{1}{Probl\IeC {\'e}matique}{56}{0}{4}
